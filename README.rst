@@ -2,7 +2,7 @@ BlindSpin: Braille Spinner for Python
 =====================================
 
 Sometimes you would just like to show the user some progress,
-but a progress bar is not suitable because you don’t know how much longer it would take.
+but a progress bar is not suitable because you don't know how much longer it would take.
 In these cases you might want to display a simple spinner using the `spinner()` function.
 
 Example usage::
